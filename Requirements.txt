@@ -1,0 +1,34 @@
+#Requirements.txt
+# Core data science libraries
+pandas==2.0.3
+numpy==1.24.3
+scikit-learn
+
+# Machine learning libraries
+xgboost
+
+# Visualization libraries
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Web application framework
+streamlit
+
+# Model persistence
+joblib
+
+# Jupyter notebook support
+jupyter==1.0.0
+ipykernel==6.25.1
+
+# Development tools
+black
+isort
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+ipykernel
+
